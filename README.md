@@ -1,2 +1,2 @@
-# Coursera_Capstone.
+# Coursera_Capstone
 Data Science Certificate IBM: Final Project 
