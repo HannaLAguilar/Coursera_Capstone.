@@ -2,7 +2,7 @@
 
 Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. The sources used for this project are Foursquare and **Open Data BCN**.
 
-![width=50%](https://i.imgur.com/53HKx7T.png)
+![width=50%](https://i.imgur.com/VBmGLhu.png)
 
 
 #### Technologies used in this project:
