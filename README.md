@@ -1,9 +1,6 @@
 # The quest for the perfect Neighbourhood
 
-Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. The sources used for this project are Foursquare and **Open Data BCN**.
-
-![width=50%](https://i.imgur.com/MjgAp94.png)
-
+Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. The sources used for this project are Foursquare and [Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/).
 
 #### Technologies used in this project:
 - python
@@ -12,11 +9,8 @@ Using a combination of coordinates of the neighborhoods, location date like rest
 - matplotlib, seaborn, folium
 - sklearn, cluster kmeans
 
-Code: https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Project%20Code.ipynb
+Check:
 
-Final presentation: https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf
+* [Project Code](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Project%20Code.ipynb).
+* [Final presentation](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf).
 
-
-```python
-
-```
