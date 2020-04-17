@@ -7,8 +7,8 @@ Using a combination of coordinates of the neighborhoods, location date like rest
 #### Technologies used in this project:
 - python
 - pandas,  numpy
-- matplotlib, seaborn, folium
 - sklearn, cluster kmeans
+- matplotlib, seaborn, folium
 - jupyter notebooks, anaconda
 
 Check:
