@@ -6,10 +6,10 @@ Using a combination of coordinates of the neighborhoods, location date like rest
 
 #### Technologies used in this project:
 - python
-- jupyter notebooks, anaconda
 - pandas,  numpy
 - matplotlib, seaborn, folium
 - sklearn, cluster kmeans
+- jupyter notebooks, anaconda
 
 Check:
 
