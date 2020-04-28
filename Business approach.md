@@ -24,7 +24,7 @@ The target audience of this project are foreign students coming to live to Barce
 
 ## Analytic approach
 
-To face the problem, we create a Machine Learning model using a k-means clustering algorithm to divide Barcelona into 10 groups to recommend a zone to each student type.
+To face the problem, we create a Machine Learning model using a k-means clustering algorithm to divide Barcelona into 5 groups to recommend a zone to each student type.
 
 # Data
 
