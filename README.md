@@ -25,16 +25,13 @@ In order to build the cluster model, the following data was needed:
 
 The sources used for this project are:
 
-- **Foursquare**: to get the venue data from the neighbourhoods
-- **Open Data BCN**: to get information about:
+- **Foursquare**, to get the venue data from the neighbourhoods
+- **[Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/)**, to get information about:
     - Population
     - Coordinates of the neighbourhoods
     - Apartment rental by neighborhood 
     - Public libraries 
     - Public transportation
-
-
-The sources used for this project are Foursquare and [Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/).
 
 ## Summary of results
 
