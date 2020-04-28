@@ -15,6 +15,25 @@ Using a combination of coordinates of the neighborhoods, location date like rest
 
 ## Data
 
+In order to build the cluster model, the following data was needed:
+
+- Cartographic division of Barcelona by neighborhood
+- The most attractive places for each neighborhood
+- Libraries 
+- Cost of the average rental of apartments by neighborhood
+- Transport information
+
+The sources used for this project are:
+
+- **Foursquare**: to get the venue data from the neighbourhoods
+- **Open Data BCN**: to get information about:
+    - Population
+    - Coordinates of the neighbourhoods
+    - Apartment rental by neighborhood 
+    - Public libraries 
+    - Public transportation
+
+
 The sources used for this project are Foursquare and [Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/).
 
 ## Summary of results
