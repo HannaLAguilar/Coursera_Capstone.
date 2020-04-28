@@ -1,15 +1,26 @@
 # The quest for the perfect Neighbourhood
 
-Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. The sources used for this project are Foursquare and [Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/).
+This is the final project of the IBM Data Science Professional Certificate.
+
+## Project overview
+
+Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. 
+
+#### Technologies used in this project:
+* Python
+* pandas, numpy
+* sklearn, cluster kmeans
+* matplotlib, seaborn, folium
+* jupyter notebooks, anaconda
+
+## Data
+
+The sources used for this project are Foursquare and [Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/).
+
+## Summary of results
 
 <img src="./ims/bcn_cluster.PNG" width=70% height=70% align="center"> 
 
-#### Technologies used in this project:
-- python
-- pandas, numpy
-- sklearn, cluster kmeans
-- matplotlib, seaborn, folium
-- jupyter notebooks, anaconda
 
 Check:
 
