@@ -9,6 +9,7 @@ Barcelona is a modern cosmopolitan city endowed with great dynamism. A great pla
 My business idea is to create an application that recommends the best neighborhood to live in Barcelona according to each type of student. Let's take a look.
 
  <img src="ims/banner_barcelona.jpg" align="left"> 
+ 
 
 ## The quest for perfect Neighbourhood
 
