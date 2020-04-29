@@ -4,7 +4,7 @@ This is the final project of the IBM Data Science Professional Certificate.
 
 ## Project overview
 
-Barcelona is a modern cosmopolitan city endowed with great dynamism. A great place with a rich culture, an identity of its own and an inexhaustible cultural and recreational offer. The city is divided in 10 districts and 73 neighbourhoods. In this project, a machine learning model was created using a **k-means clustering algorithm** to divide Barcelona into 5 differents zones according to the coordinates of each neighborhood, their principal attractive places, cost of the average rental of apartments, public libraries and transport information. 
+Barcelona is a modern cosmopolitan city endowed with great dynamism. A great place with a rich culture, an identity of its own and an inexhaustible cultural and recreational offer. The city is divided in 10 districts and 73 neighborhoods. In this project, a machine learning model was created using a **k-means clustering algorithm** to divide Barcelona into 5 differents zones according to the coordinates of each neighborhood, their principal attractive places, cost of the average rental of apartments, public libraries and transport information. 
 
 As part of the project, a [Business approach](https://github.com/HannaLAguilar/The_Battle_of_the_neighborhoods-Barcelona/blob/master/Business%20approach.md) was developed.
 
@@ -21,22 +21,25 @@ As part of the project, a [Business approach](https://github.com/HannaLAguilar/T
 
 The sources used for this project were:
 
-- **Foursquare**, to get the venue data from the neighbourhoods
+- **Foursquare**, to get the venue data from the neighborhoods
 - **[Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/)**, to get information about:
     - Population
-    - Coordinates of the neighbourhoods
+    - Coordinates of the neighborhoods
     - Apartment rental by neighborhood 
     - Public libraries 
     - Public transportation
+    
+The csv files are located in the cvs folder.
 
 ## Summary of results
 
-In the image
+The final distribution of the cluster can be seen in the following image:
 
 <img src="./ims/result.png" width=80% align="center"> 
 
- [Final presentation](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf)
-
+The mean of the rent of the clusters 0 and 2 (the ones with more neighborhood) was 720€. 
+ 
+The final presentation of the project is shown [here](https://github.com/HannaLAguilar/Clustering_neighborhoods-Barcelona/blob/master/Presentation_BCN_clustering_neigh.pdf).
 
 ## Installation
 
