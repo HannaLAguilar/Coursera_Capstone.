@@ -8,7 +8,7 @@ Barcelona is a modern cosmopolitan city endowed with great dynamism. A great pla
 
 As part of the project, a [Business approach](https://github.com/HannaLAguilar/The_Battle_of_the_neighborhoods-Barcelona/blob/master/Business%20approach.md) was developed.
 
-<img src="./ims/bcn_map.PNG" width=50% align="center"> 
+<img src="./ims/bcn_map_.PNG" width=50% align="center"> 
 
 ### Technologies used in this project:
 * Python
