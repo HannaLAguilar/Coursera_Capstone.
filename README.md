@@ -38,8 +38,14 @@ In the image
  [Final presentation](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf)
 
 
-Check:
+## Installation
 
-* [Project Code](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Project%20Code.ipynb)
-*
+Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment with python 3, install the following packages:
+```
+conda install jupyter, numpy, pandas=0.25, matplotlib, seaborn
+conda install -c anaconda scikit-learn
+conda install -c conda-forge folium
+
+```
+Then, run the [Project Code](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Project%20Code.ipynb)
 
