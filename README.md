@@ -47,5 +47,5 @@ conda install -c anaconda scikit-learn
 conda install -c conda-forge folium
 
 ```
-Then, run the [Project Code](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Project%20Code.ipynb)
+Then, run the [Project Code](https://github.com/HannaLAguilar/Clustering_neighborhoods-Barcelona/blob/master/Project%20Code.ipynb)
 
