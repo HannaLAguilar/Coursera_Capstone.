@@ -31,6 +31,8 @@ The sources used for this project were:
 
 ## Summary of results
 
+In the image
+
 <img src="./ims/bcn_cluster.PNG" width=70% height=70% align="center"> 
 
  [Final presentation](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf)
