@@ -4,7 +4,10 @@ This is the final project of the IBM Data Science Professional Certificate.
 
 ## Project overview
 
-Using a combination of coordinates of the neighborhoods, location date like restaurants, cinemas, clubs, and Machine Learning, I grouped neighborhoods into 5 cluster like the image. 
+Barcelona is a modern cosmopolitan city endowed with great dynamism. A great place with a rich culture, an identity of its own and an inexhaustible cultural and recreational offer. The city is divided in 10 districts and 73 neighbourhoods. In this project, I create a Machine Learning model using a **k-means clustering algorithm** to divide Barcelona into 5 differents zones according to the coordinates of each neighborhood, their principal attractive places, cost of the average rental of apartments, public libraries and transport information. 
+
+
+
 
 #### Technologies used in this project:
 * Python
@@ -15,15 +18,7 @@ Using a combination of coordinates of the neighborhoods, location date like rest
 
 ## Data
 
-In order to build the cluster model, the following data was needed:
-
-- Cartographic division of Barcelona by neighborhood
-- The most attractive places for each neighborhood
-- Libraries 
-- Cost of the average rental of apartments by neighborhood
-- Transport information
-
-The sources used for this project are:
+The sources used for this project were:
 
 - **Foursquare**, to get the venue data from the neighbourhoods
 - **[Open Data BCN](https://opendata-ajuntament.barcelona.cat/es/)**, to get information about:
