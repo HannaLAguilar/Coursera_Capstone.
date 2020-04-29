@@ -33,7 +33,7 @@ The sources used for this project were:
 
 In the image
 
-<img src="./ims/result.png" width=90% height=90% align="center"> 
+<img src="./ims/result.png" width=80% align="center"> 
 
  [Final presentation](https://github.com/HannaLAguilar/The-Battle-of-the-neighborhoods-Barcelona/blob/master/Presentation_HLA.pdf)
 
