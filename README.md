@@ -1,4 +1,4 @@
-# The quest for the perfect Neighbourhood
+# The quest for the perfect Neighborhood
 
 This is the final project of the IBM Data Science Professional Certificate.
 
@@ -37,7 +37,7 @@ The final distribution of the cluster can be seen in the following image:
 
 <img src="./ims/result.png" width=80% align="center"> 
 
-The mean of the rent of the clusters 0 and 2 (the ones with more neighborhood) was 720€. 
+The mean of the rental of the clusters 0 and 2 (the ones with more neighborhoods) was 720€. 
  
 The final presentation of the project is shown [here](https://github.com/HannaLAguilar/Clustering_neighborhoods-Barcelona/blob/master/Presentation_BCN_clustering_neigh.pdf).
 
