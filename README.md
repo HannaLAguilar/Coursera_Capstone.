@@ -48,7 +48,6 @@ Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment
 conda install jupyter, numpy, pandas=0.25, matplotlib, seaborn
 conda install -c anaconda scikit-learn
 conda install -c conda-forge folium
-
 ```
 Then, run the [Project Code](https://github.com/HannaLAguilar/Clustering_neighborhoods-Barcelona/blob/master/Project%20Code.ipynb)
 
