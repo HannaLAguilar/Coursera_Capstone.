@@ -4,7 +4,7 @@ This is the final project of the IBM Data Science Professional Certificate.
 
 ## Project overview
 
-Barcelona is a modern cosmopolitan city endowed with great dynamism. A great place with a rich culture, an identity of its own and an inexhaustible cultural and recreational offer. The city is divided in 10 districts and 73 neighborhoods. The business idea was to develop an application that could indicate which is the ideal neighborhood for a person according to their needs and personality. In this project, a machine learning model was created using a **k-means clustering algorithm** to divide Barcelona into 5 differents zones based on the coordinates of each neighborhood, their most interesting sites, cost of the average rental of apartments, public libraries and transport information. 
+Barcelona is a modern cosmopolitan city endowed with great dynamism. A great place with a rich culture, an identity of its own and an inexhaustible cultural and recreational offer. The city is divided in 10 districts and 73 neighborhoods. The business idea was to develop an application that could indicate which is the ideal neighborhood for a person according to their needs and personality. In this project, a machine learning model was created using a **k-means clustering algorithm** to divide Barcelona into 5 different zones based on the coordinates of each neighborhood, their most interesting sites, cost of the average rental of apartments, public libraries and transport information. 
 
 As part of the project, a [Business approach](https://github.com/HannaLAguilar/The_Battle_of_the_neighborhoods-Barcelona/blob/master/Business%20approach.md) was developed.
 
